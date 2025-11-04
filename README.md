@@ -2,6 +2,8 @@
 
 Codex MAS is a production-oriented multi-agent workflow built with [pydantic_ai](https://github.com/pydantic/pydantic-ai) and the OpenAI API. The system routes each user query through a router → specialists → reviewer pipeline and validates every agent output with Pydantic models.
 
+> 🇯🇵 日本語の README は [README.ja.md](README.ja.md) を参照してください。
+
 ## Features
 
 - Router, Researcher, Coder, Tester, Summarizer, and Reviewer agents with structured outputs.
